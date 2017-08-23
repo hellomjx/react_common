@@ -305,6 +305,10 @@ LayoutAnimation.configureNext({
             })
 ```
 
+效果如下：
+
+<img src="../images/LayoutAnimation.gif">
+
 [完整代码在这](https://github.com/liuyanhongwl/react-native-demos/tree/master/Animations)
 
 #### 参考
