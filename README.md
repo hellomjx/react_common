@@ -6,5 +6,6 @@
 
 
 #### js
- - [比较iOS的block和js的闭包](js/files/比较iOS的block和js的闭包.md)
- - [比较oc和js的继承体系结构](js/files/比较oc和js的继承体系结构.md)
+ - [闭包](js/files/闭包.md)
+ - [继承体系结构](js/files/继承体系结构.md)
+ - [内存管理](js/files/内存管理.md)
